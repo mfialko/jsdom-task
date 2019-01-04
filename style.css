@@ -6,7 +6,6 @@ body {
 
 .header {
   height: 65px;
-  transition: min-height 0.3s;
 }
 
 .header-inner {
